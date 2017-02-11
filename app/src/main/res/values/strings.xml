@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Nami Application</string>
+    <string name="text_view1">纳米学位应用</string>
+    <string name="button2">热门电影</string>
+    <string name="button3">股票雄鹰</string>
+    <string name="button4">XYZ阅读器</string>
+    <string name="button5">最新闻</string>
+    <string name="button6">毕业设计</string>
+</resources>
