@@ -4,5 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="title_color">#00000000</color>
+    <color name="titleText_color">#C0C0C0</color>
     <color name="subtitle_color">#000000</color>
+    <color name="subtitleText_color">#F5F5F5</color>
 </resources>

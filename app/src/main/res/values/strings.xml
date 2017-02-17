@@ -6,4 +6,9 @@
     <string name="button4">XYZ阅读器</string>
     <string name="button5">最新闻</string>
     <string name="button6">毕业设计</string>
+    <string name="toast_button2">启动应用：热门电影</string>
+    <string name="toast_button3">启动应用：股票雄鹰</string>
+    <string name="toast_button4">启动应用：XYZ阅读器</string>
+    <string name="toast_button5">启动应用：最新闻</string>
+    <string name="toast_button6">启动应用：毕业设计</string>
 </resources>
