@@ -11,4 +11,13 @@
     <string name="toast_button4">启动应用：XYZ阅读器</string>
     <string name="toast_button5">启动应用：最新闻</string>
     <string name="toast_button6">启动应用：毕业设计</string>
+    <string name="action_setting">设置</string>
+    <string name="action_refresh">刷新</string>
+    <string name="movie_detail">电影详情</string>
+    <string name="pref_order_label">排序方式</string>
+    <string name="pref_order_key">order</string>
+    <string name="pref_order_popular">popular</string>
+    <string name="pref_order_top_rated">top_rated</string>
+    <string name="pref_order_popular_label">受欢迎度</string>
+    <string name="pref_order_top_rated_label">按评分</string>
 </resources>

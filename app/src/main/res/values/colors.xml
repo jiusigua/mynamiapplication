@@ -7,4 +7,8 @@
     <color name="titleText_color">#C0C0C0</color>
     <color name="subtitle_color">#000000</color>
     <color name="subtitleText_color">#F5F5F5</color>
+    <color name="movie_score_color">#FF0000</color>
+    <color name="detail_title_background">#009688</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
 </resources>

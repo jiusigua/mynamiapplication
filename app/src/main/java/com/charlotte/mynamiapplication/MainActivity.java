@@ -1,5 +1,6 @@
 package com.charlotte.mynamiapplication;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -24,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
         switch (v.getId()) {
             case R.id.button2:
                 show(R.string.toast_button2);
+                Intent movieIntent =  new Intent(MainActivity.this, MovieMainActivity.class);
+                startActivity(movieIntent);
                 break;
             case R.id.button3:
                 show(R.string.toast_button3);
@@ -41,8 +44,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void show(int resId){
-        if(mToast==null){
-            mToast=Toast.makeText(this,resId,Toast.LENGTH_SHORT);
+        if(mToast == null){
+            mToast = Toast.makeText(this,resId,Toast.LENGTH_SHORT);
         }else{
             mToast.setText(resId);
         }
